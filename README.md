@@ -1,7 +1,6 @@
 - 👋 Hi, I’m sadra
 - 👀 my age is 15
 - 📫 discord > ঈ  sаdяa ZєRᎧ#3646
-- 📫 shad > @sadra_gorji
 - 📫 rubika > @sadra_Z3R0
 
 <!---
