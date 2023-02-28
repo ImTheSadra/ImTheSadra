@@ -1,6 +1,5 @@
 - 👋 Hi, I’m sadra
 - 👀 my age is 15
-- 💞️ hannane is my love 
 - 📫 discord !𝕲'神 sadra ZєRᎧ#3646
 
 <!---
