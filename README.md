@@ -1,8 +1,7 @@
 ## Hi there
-<img algin="right" width="30%" src="./icon.png">
-
 Im a **game developer**;
 i usuly use `python` (and some time `cpp` or `javascript`)
+<img algin="right" width="30%" src="./icon.png">
 
 - ?? @sadraZ3R0 (rubika) | [anime club](https://discord.gg/animeh) | ! sad?? Z?R?#3646 (discord)
 
