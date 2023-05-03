@@ -1,18 +1,17 @@
-Coffee
-======
+## Hi there
+<img algin="right" width="30%" src="./icon.png">
 
-- 👋 Hi, I’m sadra
-- 👀 my age is 15
-- 📫 discord > ঈ  śâđяâ ZєRᎧ#3646
-- 📫 rubika > @sadra_Z3R0
-- 📫 [anime club](https://discord.gg/animeh)
+Im a **game developer**;
+i usuly use `python` (and some time `cpp` or `javascript`)
 
-`` I usually do cpp or py `` <br>
-`` Я обычно делаю cpp Или py `` <br>
-`` من معمولا cpp یا py انجام میدم `` <br>
+- ?? @sadraZ3R0 (rubika) | [anime club](https://discord.gg/animeh) | ! sad?? Z?R?#3646 (discord)
 
-```cpp
-printf("Programmers");
-printf("Мир по-другому");
-printf("میبینند");
-```
+
+Projects
+========
+
+| Title | Description | url 
+| ---------------------------------------------------------------------------------------------|
+| mivekhor | a 2d game using python(pygame) (Mr. [Majidi's](http://peymanmajidi.ir/) idea | [mivekhor](https://github.com/SadraZ3R0/mivekhor)
+| PyAparat  | a simple python library for [aparat](https://aparat.com) | [PyAparat](https://github.com/SadraZ3R0/PyAparat)
+| PyFiglet | convert text to ascii art | [PyFiglet](https://github.com/SadraZ3R0/Py-Figlet)
