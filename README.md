@@ -6,6 +6,7 @@ i usuly use `python` (and some time `cpp` or `javascript`)
 
 - @sadraZ3R0 (rubika) | [anime club](https://discord.gg/animeh)
 
+<img src="https://github-readme-stats.vercel.app/api?username=sadraZ3R0&show_icons=true&theme=dark" />
 
 Projects
 --------
