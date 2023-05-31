@@ -1,14 +1,14 @@
-## Hi there
+## Hi there 🖐
 
 <div>
-<p>Im a <i style="font-size: 120%">game developer</i></p>
+<p>Im a <i style="font-size: 150%">game developer</i></p>
 <p>i usuly use <code>python</code> (and some time <code>cpp</code> or <code>javascript</code>)</p>
   <img style="float: left;" width="60%" src="./icon.png">
   
 </div>
 - @sadraZ3R0 (rubika) | [anime club](https://discord.gg/animeh)
 <div><br></div>
-<img src="https://github-readme-stats.vercel.app/api?username=sadraZ3R0&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=sadraZ3R0&show_icons=true&theme=dark"/>
 
 Projects
 --------
