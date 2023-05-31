@@ -1,11 +1,13 @@
 ## Hi there
-<img algin="left" width="60%" src="./icon.png">
 
-Im a **game developer**;
-i usuly use `python` (and some time `cpp` or `javascript`)
-
+<div>
+<p>Im a <i style="font-size: 120%">game developer</i></p>
+<p>i usuly use <code>python</code> (and some time <code>cpp</code> or <code>javascript</code>)</p>
+  <img style="float: left;" width="60%" src="./icon.png">
+  
+</div>
 - @sadraZ3R0 (rubika) | [anime club](https://discord.gg/animeh)
-
+<div><br></div>
 <img src="https://github-readme-stats.vercel.app/api?username=sadraZ3R0&show_icons=true&theme=dark" />
 
 Projects
