@@ -6,7 +6,7 @@
   <img style="float: left;" width="60%" src="./icon.png">
   
 </div>
-- @sadraZ3R0 (rubika) | [anime club](https://discord.gg/animeh)
+- @sadraZ3R0 (rubika) | <a href="https://discord.gg/animeh">anime club</a>
 <div><br></div>
 <img src="https://github-readme-stats.vercel.app/api?username=sadraZ3R0&show_icons=true&theme=dark"/>
 
