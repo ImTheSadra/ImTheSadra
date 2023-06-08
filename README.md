@@ -3,7 +3,7 @@
 <div>
 <p>Im a <i style="font-size: 150%">game developer</i></p>
 <p>i usuly use <code>python</code> (and some time <code>cpp</code> or <code>javascript</code>)</p>
-  <img style="float: left;" width="60%" src="./icon.png">
+  <img style="float: left; border-radius: 15px; border: black solid 2px;" src="./game-banner.jpg">
   
 </div>
 - @sadraZ3R0 (rubika) | <a href="https://discord.gg/animeh">anime club</a>
