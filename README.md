@@ -2,7 +2,7 @@
 ## Hi there 🖐
 
 
-<p>Im a <i style="font-size: 170%;">game developer</i></p>
+<p>Im a <i style="font-size: 170%;">desktop developer</i></p>
 <p>i usuly use <code>python</code> (and some time <code>cpp</code> or <code>javascript</code>)</p>
 <div align="center">  <img style="float: left; border-radius: 15px; border: black solid 2px;" src="./banner.jpg"></div>
   
