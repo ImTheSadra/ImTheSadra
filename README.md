@@ -10,7 +10,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sadraZ3R0&show_icons=true&theme=light" border="0">
   <br>
   <img src="https://streak-stats.demolab.com/?user=sadraZ3R0&theme=light">
+  <br>
 </div>
+
+```cpp
+class User{
+public:
+	string name = "Sadra";
+	string lastName = "Gorji";
+	int age = 16;
+	string languages[3] = {"python", "cpp", "javascript"}
+}
+```
 
 Projects
 --------
