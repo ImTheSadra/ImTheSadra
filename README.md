@@ -1,6 +1,6 @@
 
 ## Hi there 🖐
-<img src="./cat.gif" float="right">
+
 <p>Im a <i style="font-size: 170%;">desktop developer</i></p>
 <p>i usuly use <code>python</code> (and some time <code>cpp</code> or <code>javascript</code>)</p>
 <div align="center">  <img style="float: left; border-radius: 15px; border: black solid 2px;" src="./banner.jpg"></div>
@@ -22,8 +22,10 @@ public:
 	string languages[3] = {"python", "cpp", "javascript"}
 }
 ```
-
+<div float="left">
 <a href="https://coffeebede.com/sadraz3r0"><img width="25%" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<img src="./cat.gif" float="right" width="10%">
+</div>
 
 Projects
 --------
