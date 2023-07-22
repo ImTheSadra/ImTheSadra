@@ -23,8 +23,8 @@ public:
 }
 ```
 <div float="left">
-<a href="https://coffeebede.com/sadraz3r0"><img width="25%" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
-<img src="./cat.gif" float="right" width="10%">
+<a href="https://coffeebede.com/sadraz3r0"><img width="25%" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" / style="margin-down: 40%;"></a>
+<img src="./cat.gif" float="right" width="8%">
 </div>
 
 Projects
