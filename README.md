@@ -2,7 +2,7 @@
 ## Hi there 🖐
 
 <p>Im a <i style="font-size: 170%;">desktop developer</i></p>
-<p>i usuly use <code>python</code> (and some time <code>cpp</code> or <code>javascript</code>)</p>
+<p>i usuly use <code style="color: #f2495a">python</code> (and some time <code style="color: #f2495a">cpp</code> or <code style="color: #f2495a">javascript</code>)</p>
 <div align="center">  <img style="float: left; border-radius: 15px; border: black solid 2px;" src="./banner.jpg"></div>
   
 <div align="center">
@@ -88,7 +88,6 @@ find me
 <div align="center">
 	<a href="https://discord.gg/RzxrR6bMMf"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 	<a href="mailto: m.sadra.gorji@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-	<a href="https://web.wechat.com"><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white"></a>
 	<a href="https://editor.p5js.org/sadra-ZeRo/sketches">
 		<img src="https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white">
 	</a>
