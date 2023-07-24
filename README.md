@@ -19,7 +19,11 @@ public:
 	string lastName = "Gorji";
 	string nickName = "Sandro In The Box";
 	int age = 16;
-	string languages[3] = {"python", "cpp", "javascript"}
+	string languages[3] = {
+		"python",
+		"cpp",
+		"javascript"
+	};
 }
 ```
 <div float="left">
