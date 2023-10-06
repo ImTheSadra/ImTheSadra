@@ -2,7 +2,7 @@
 ## Hi there 🖐
 
 <p>Im a <i style="font-size: 170%;">desktop developer</i></p>
-<p>i usuly use <code style="color: #f2495a">python</code> (and some time <code style="color: #f2495a">cpp</code> or <code style="color: #f2495a">javascript</code>)</p>
+<p>i usuly use <code style="color: #f2495a">c#</code> (and some time <code style="color: #f2495a">python</code> or <code style="color: #f2495a">javascript</code>)</p>
 <div align="center">  <img style="float: left; border-radius: 15px; border: black solid 2px;" src="./banner.jpg"></div>
   
 <div align="center">
