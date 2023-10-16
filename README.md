@@ -20,6 +20,7 @@ public:
 	string nickName = "Sandro In The Box";
 	int age = 16;
 	string languages[3] = {
+		"c#",
 		"python",
 		"cpp",
 		"javascript"
