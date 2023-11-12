@@ -19,7 +19,7 @@ public:
 	string lastName = "Gorji";
 	string nickName = "Sandro In The Box";
 	int age = 16;
-	string languages[3] = {
+	string languages[4] = {
 		"c#",
 		"python",
 		"cpp",
