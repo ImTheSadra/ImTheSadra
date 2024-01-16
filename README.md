@@ -4,13 +4,15 @@
 <p>Im a <i style="font-size: 170%;">desktop developer</i></p>
 <p>i usuly use <code style="color: #f2495a">c#</code> (and some time <code style="color: #f2495a">python</code> or <code style="color: #f2495a">javascript</code>)</p>
 <div align="center">  <img style="float: left; border-radius: 15px; border: black solid 2px;" src="./banner.jpg"></div>
-  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadraInTheBox&show_icons=true&theme=light" border="0">
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=SadraInTheBox&theme=light">
-  <br>
-</div>
+
+
+```
+ █████ █████ ████  █████ █████   █████ █   █   █████ █   █ █████   ████  █████ █   █
+ █     █   █ █   █ █   █ █   █     █   ██  █     █   █   █ █       █   █ █   █  █ █
+ █████ █████ █   █ █████ █████     █   █ █ █     █   █████ █████   █████ █   █   █
+     █ █   █ █   █ █  █  █   █     █   █  ██     █   █   █ █       █   █ █   █  █ █
+ █████ █   █ ████  █   █ █   █   █████ █   █     █   █   █ █████   ████  █████ █   █
+```
 
 ```cpp
 class User{
@@ -27,9 +29,18 @@ public:
 	};
 }
 ```
-<div float="left">
-<a href="https://coffeebede.com/SandroInTheBox"><img width="25%" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" / style="margin-down: 40%;"></a>
+  
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=SadraInTheBox&show_icons=true&theme=light" border="0" align="right">
+  <img src="https://streak-stats.demolab.com/?user=SadraInTheBox&theme=light" align="left">
+	<br>
+</div>
+
+<div align="left" style="margin-buttom: 40px">
+<a href="https://coffeebede.com/SandroInTheBox"><img width="25%" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" / style="margin-down: 40px;"></a>
 <img src="./cat.gif" float="right" width="8%">
+	
+<img src="https://i.imgur.com/2DrTn0Z.gif" align="right" width="10%">
 </div>
 
 Projects
