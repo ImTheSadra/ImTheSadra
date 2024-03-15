@@ -2,6 +2,7 @@
 
 <p>Im a <i style="font-size: 170%;">desktop developer</i></p>
 <p>i usuly use <code style="color: #f2495a">c#</code> (and some time <code style="color: #f2495a">python</code> or <code style="color: #f2495a">javascript</code>)</p>
+<div><img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet"></div>
 <div align="center">  <img style="float: left; border-radius: 15px; border: black solid 2px;" src="./banner.jpg"></div>
 
 ```cpp
