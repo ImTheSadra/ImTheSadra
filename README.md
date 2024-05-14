@@ -1,7 +1,7 @@
 ## Hi there 🖐
 
 <p>Im a <i style="font-size: 170%;">desktop developer</i></p>
-<p>i usuly use <code style="color: #f2495a">c#</code> (and some time <code style="color: #f2495a">python</code> or <code style="color: #f2495a">javascript</code>)</p>
+<p>i usuly use <code style="color: #f2495a">cpp</code> (and some time <code style="color: #f2495a">python</code> or <code style="color: #f2495a">c#</code>)</p>
 <div><img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet"></div>
 <div align="center">  <img style="float: left; border-radius: 15px; border: black solid 2px;" src="./banner.jpg"></div>
 
@@ -27,7 +27,8 @@ public:
 		<img src="./cat.gif" float="right" width="70px">
 		<!-- <img src="https://i.imgur.com/2DrTn0Z.gif" align="right" width="70px"> -->
 		<img src="./sdl.png" align="right" width="70px">
-		<img src="./gl.gif" align="right" width="70px">
+		<img src="./gl.gif" align="right" width="100px">
+		<img src="./monogame.png" width="70px">
  		<br>
 	</div>
 </div>
