@@ -7,16 +7,17 @@
 
 ```cpp
 class User{
+private:
+	Nothing to see here...
 public:
 	string name = "Sadra";
-	string lastName = "Gorji";
+	string lastName = "Georgi";
 	string nickName = "Sandro In The Box";
 	int age = 16;
 	string languages[4] = {
-		"c#",
+		"cpp", "c",
 		"python",
-		"cpp",
-		"javascript"
+		"c#"
 	};
 }
 ```
@@ -24,8 +25,9 @@ public:
 	<div>
 		<a href="https://coffeebede.com/SandroInTheBox"><img width="25%" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg"></a>
 		<img src="./cat.gif" float="right" width="70px">
-		<img src="https://i.imgur.com/2DrTn0Z.gif" align="right" width="70px">
-		<img src="https://fishshell.com/assets/img/Terminal_Logo2_CRT_Flat.png" align="right" width="70px">
+		<!-- <img src="https://i.imgur.com/2DrTn0Z.gif" align="right" width="70px"> -->
+		<img src="./sdl.png" align="right" width="70px">
+		<img src="./gl.gif" align="right" width="70px">
  		<br>
 	</div>
 </div>
@@ -51,24 +53,24 @@ frameworks and libs
 --
 <div align="center">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-<img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"> -->
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 	<img src="https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white">
-	<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
-	<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
- <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
- <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+	<!-- <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"> -->
+	<!-- <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"> -->
+ <!-- <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> -->
+	<img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl">
+ 	<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 	<img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 </div>
 
 tools
 --
 <div align="center">
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
 <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl">
+<!-- <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"> -->
+
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
@@ -98,11 +100,3 @@ find me
 		<img src="https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white">
 	</a>
 </div>
-
-```
- █████ █████ ████  █████ █████   █████ █   █   █████ █   █ █████   ████  █████ █   █
- █     █   █ █   █ █   █ █   █     █   ██  █     █   █   █ █       █   █ █   █  █ █
- █████ █████ █   █ █████ █████     █   █ █ █     █   █████ █████   █████ █   █   █
-     █ █   █ █   █ █  █  █   █     █   █  ██     █   █   █ █       █   █ █   █  █ █
- █████ █   █ ████  █   █ █   █   █████ █   █     █   █   █ █████   ████  █████ █   █
-```
