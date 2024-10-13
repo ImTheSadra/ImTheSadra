@@ -12,8 +12,9 @@ private:
 public:
 	string name = "Sadra";
 	string lastName = "Georgi";
-	string nickName = "Sandro In The Box";
-	int age = 16;
+ string fieldOfStudy = "Mathematics";
+ string school = "State model school of Imam Khomeini (old Farabi)"
+	int age = 17;
 	string languages[4] = {
 		"cpp", "c",
 		"python",
