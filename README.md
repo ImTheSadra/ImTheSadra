@@ -26,7 +26,7 @@ public:
 	<div>
 		<a href="https://coffeebede.com/SandroInTheBox"><img width="25%" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg"></a>
 		<img src="./cat.gif" float="right" width="70px">
-		<!-- <img src="https://i.imgur.com/2DrTn0Z.gif" align="right" width="70px"> -->
+		<img src="https://p1.hiclipart.com/preview/138/991/821/tools-hardwarepack2-directx-10-4-icon-png-icon-thumbnail.jpg" align="right" width="70px">
 		<img src="./sdl.png" align="right" width="70px">
 		<img src="./gl.gif" align="right" width="100px">
 		<img src="./monogame.png" width="70px">
@@ -63,6 +63,7 @@ frameworks and libs
 	<!-- <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"> -->
  <!-- <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> -->
 	<img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl">
+	<img src="https://img.shields.io/badge/DirectX%2011-003399?style=for-the-badge&logo=windowsxp&logoColor=white">
  	<img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 	<img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 </div>
