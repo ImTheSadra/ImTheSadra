@@ -25,11 +25,11 @@ public:
 <div>
 	<div>
 		<a href="https://coffeebede.com/SandroInTheBox"><img width="25%" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg"></a>
-		<img src="./cat.gif" float="right" width="70px">
-		<img src="https://p1.hiclipart.com/preview/138/991/821/tools-hardwarepack2-directx-10-4-icon-png-icon-thumbnail.jpg" align="right" width="70px">
-		<img src="./sdl.png" align="right" width="70px">
-		<img src="./gl.gif" align="right" width="100px">
-		<img src="./monogame.png" width="70px">
+		<img src="./cat.gif" float="right" height="70px">
+		<img src="https://nhatminhlaptop.com/Upload/Editor/2024/1/20/2microsoftdirectx2-55c0.jpg" align="right" height="70px">
+		<img src="./sdl.png" align="right" height="70px">
+		<img src="./gl.gif" align="right" height="100px">
+		<img src="./monogame.png" height="70px">
  		<br>
 	</div>
 </div>
